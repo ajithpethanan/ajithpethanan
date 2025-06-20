@@ -8,21 +8,21 @@ I am transitioning into IT from a non-technical background and have completed a 
 ## Projects
 
 ### 1. [DevOps Capstone Project 1 – Ansible, Jenkins, and Docker Automation] 
-- projectlink - https://github.com/ajithpethanan/devops-capstone-project1
+- projectlink - https://github.com/ajithpethanan/project01
 - Automates deployment across Master, Test, and Production EC2 instances
 - Jenkins triggers Ansible Playbooks to set up environments
 - Docker used to containerize and deploy applications
 - GitHub for source control
--  **Screenshots link**:https://github.com/ajithpethanan/devops-capstone-project1/tree/main/screenshots
+-  **Screenshots link**: https://github.com/ajithpethanan/devops-capstone-project1
 
 ---
 
 ### 2. [DevOps Capstone Project 2 – AWS CI/CD Pipeline for Website Deployment]
-- projectlink- https://github.com/ajithpethanan/devops-capstone-project2
+- projectlink-https://github.com/ajithpethanan/website
 - CI/CD pipeline using Jenkins, shell scripting, and GitHub
 - Website deployment on AWS EC2 with auto-build triggers
 - GitHub for version control
-- **Screenshots link**: https://github.com/ajithpethanan/devops-capstone-project2/tree/main/screenshots
+- **Screenshots link**: https://github.com/ajithpethanan/devops-capstone-project2
 
 ---
 
