@@ -1,33 +1,34 @@
-## 📂 Projects
 
-### 🚀 Ansible, Jenkins, and Docker Automation Project
+# Ajith Pethanan – DevOps & Cloud Portfolio
 
-This capstone project demonstrates end-to-end automation using **Ansible**, **Jenkins**, **Docker**, and **GitHub** across three Ubuntu EC2 instances: **Master**, **Test**, and **Production**. The project handles software installation, Jenkins agent setup, CI/CD pipeline automation, and Dockerized web app deployment.
+I am transitioning into IT from a non-technical background and have completed a Cloud Computing and DevOps course from Intellipaat. This portfolio includes hands-on DevOps projects built using AWS, Jenkins, Ansible, Docker, and GitHub.
 
-#### 🔧 Tools & Technologies:
-- AWS EC2
-- Ansible
-- Jenkins
-- Docker
-- GitHub
-- Ubuntu Server 22.04
+---
 
-#### 🛠️ Key Features:
-- Provisioned 3 EC2 Ubuntu servers (Master, Test, Production)
-- Automated software installation using Ansible playbooks
-- Installed and configured Jenkins on Master, set up Test and Prod as Jenkins agents
-- CI/CD Pipeline:
-  - Build Docker images on code push to **master** or **develop**
-  - Deploy to Test environment (port 82/83)
-  - Auto-trigger final release to Production (port 80)
-- Used GitHub webhooks to automate build triggers
+## Projects
 
-#### 📦 CI/CD Workflow:
-- `Job 1: mastertesting_82`: On `master` branch push → Build Docker image → Deploy to **Test** (port 82)
-- `Job 2: testingdevelop_83`: On `develop` branch push → Build & deploy to **Test** (port 83)
-- `Job 3: finalrelease`: Auto-triggered post-success of Job 1 → Deploys to **Production** (port 80)
+### 1. [DevOps Capstone Project 1 – Ansible, Jenkins, and Docker Automation] 
+- projectlink - https://github.com/ajithpethanan/devops-capstone-project1
+- Automates deployment across Master, Test, and Production EC2 instances
+- Jenkins triggers Ansible Playbooks to set up environments
+- Docker used to containerize and deploy applications
+- GitHub for source control
+-  **Screenshots**: [View screenshots folder](https://github.com/ajithpethanan/devops-capstone-project1/tree/main/screenshots)
 
-#### 🔗 GitHub Repository:
-[🔗 Project Repo](https://github.com/ajithpethanan/website)
+---
+
+### 2. [DevOps Capstone Project 2 – AWS CI/CD Pipeline for Website Deployment]
+- projectlink- https://github.com/ajithpethanan/devops-capstone-project2
+- CI/CD pipeline using Jenkins, shell scripting, and GitHub
+- Website deployment on AWS EC2 with auto-build triggers
+- GitHub for version control
+- **Screenshots**: [View screenshots folder](https://github.com/ajithpethanan/devops-capstone-project2/tree/main/screenshots)
+
+---
+
+## Contact
+
+- **Email**: ajithpethanan1996@gmail.com
+- **LinkedIn**:https://www.linkedin.com/in/ajith-kumar-5693731a4/
 
 
