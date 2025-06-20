@@ -13,7 +13,7 @@ I am transitioning into IT from a non-technical background and have completed a 
 - Jenkins triggers Ansible Playbooks to set up environments
 - Docker used to containerize and deploy applications
 - GitHub for source control
--  **Screenshots**: [View screenshots folder](https://github.com/ajithpethanan/devops-capstone-project1/tree/main/screenshots)
+-  **Screenshots link**:https://github.com/ajithpethanan/devops-capstone-project1/tree/main/screenshots
 
 ---
 
@@ -22,7 +22,7 @@ I am transitioning into IT from a non-technical background and have completed a 
 - CI/CD pipeline using Jenkins, shell scripting, and GitHub
 - Website deployment on AWS EC2 with auto-build triggers
 - GitHub for version control
-- **Screenshots**: [View screenshots folder](https://github.com/ajithpethanan/devops-capstone-project2/tree/main/screenshots)
+- **Screenshots link**: https://github.com/ajithpethanan/devops-capstone-project2/tree/main/screenshots
 
 ---
 
