@@ -25,7 +25,7 @@ I am transitioning into IT from a non-technical background and have completed a 
 - **Screenshots link**: https://github.com/ajithpethanan/devops-capstone-project2
 
 
-### 2. [AWS Capstone Project 1 – Architecture for New Employee Profile Database]
+### 3. [AWS Capstone Project 1 – Architecture for New Employee Profile Database]
 - projectlink- https://github.com/ajithpethanan/aws-capstone1.git
 - Full-stack web app hosted on a private EC2 instance, accessed via Application Load Balancer (ALB)
 - Flask app stores employee data in RDS (MySQL), images in S3, and image links in DynamoDB
